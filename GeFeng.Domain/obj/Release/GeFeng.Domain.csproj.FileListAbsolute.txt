@@ -1,0 +1,8 @@
+E:\MVC project\GeFengHomePage\GeFeng.Domain\bin\Release\GeFeng.Domain.dll.config
+E:\MVC project\GeFengHomePage\GeFeng.Domain\bin\Release\GeFeng.Domain.dll
+E:\MVC project\GeFengHomePage\GeFeng.Domain\bin\Release\GeFeng.Domain.pdb
+E:\MVC project\GeFengHomePage\GeFeng.Domain\bin\Release\EntityFramework.dll
+E:\MVC project\GeFengHomePage\GeFeng.Domain\bin\Release\EntityFramework.xml
+E:\MVC project\GeFengHomePage\GeFeng.Domain\obj\Release\GeFeng.Domain.dll
+E:\MVC project\GeFengHomePage\GeFeng.Domain\obj\Release\GeFeng.Domain.pdb
+E:\MVC project\GeFengHomePage\GeFeng.Domain\obj\Release\GeFeng.Domain.csprojResolveAssemblyReference.cache
